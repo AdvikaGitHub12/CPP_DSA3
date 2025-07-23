@@ -1,7 +1,6 @@
 // Name - Advika Bhosle
 // PRN - 24070123007
 // Batch - EnTC - A1 
-// Expt - 3A
 
 #include <iostream>
 #include <string>
@@ -21,3 +20,11 @@ int main() {
     
     return 0;
 }
+
+//output
+/*
+Please enter a number : 12
+The number 12 is positive
+
+=== Code Execution Successful===
+/*
