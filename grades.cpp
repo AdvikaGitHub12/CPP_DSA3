@@ -1,7 +1,6 @@
 // Name - Advika Bhosle 
 // PRN - 240701230077
 // Batch - EnTC - A1 
-// Expt - 3B
 
 #include <iostream>
 #include <string>
